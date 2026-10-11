@@ -1,0 +1,40 @@
+@charset "utf-8";
+#container {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#header {
+	margin-top: 15px;
+	margin-bottom: 5px;
+	text-align: center;
+	background-color: rgba(2,78,85,1.00);
+	color: rgba(252,252,252,1.00);
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 32px;
+}
+#content {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-left: 8px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+#footer {
+	background-color: rgba(2,78,85,1.00);
+	color: rgba(252,252,252,1.00);
+	text-align: center;
+	font-size: small;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+body {
+	background-image: -webkit-linear-gradient(183deg,rgba(255,255,255,1.00) 44.04%,rgba(219,221,191,1.00) 100%);
+	background-image: -moz-linear-gradient(183deg,rgba(255,255,255,1.00) 44.04%,rgba(219,221,191,1.00) 100%);
+	background-image: -o-linear-gradient(183deg,rgba(255,255,255,1.00) 44.04%,rgba(219,221,191,1.00) 100%);
+	background-image: linear-gradient(267deg,rgba(255,255,255,1.00) 44.04%,rgba(219,221,191,1.00) 100%);
+}
